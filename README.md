@@ -21,10 +21,10 @@ Sets the background color of elements in a webpage with the matching ids, to the
 
 
 Installation:
-To install the package, run npm install Darker in your command line.
+To install the package, run " npm install darker " in your command line.
 
 Usage:
 To use the package in your code, 
-import it with const hexColorUtils = require('Darker');.
+import it with const hexColorUtils = require('darker');.
 Then you can call the functions from the package by referencing them through the imported object,
 for example hexColorUtils.darkerColor('#000000', '#ffffff').
